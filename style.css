@@ -98,14 +98,11 @@ html {
   scroll-behavior: smooth;
 }
 
-
 body {
-  background-image: img/Everest.jpg;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
+  background-color: midnightblue;
+  padding: 1em 2em;
+  font-family: "Barlow Semi Condensed", sans-serif;
 }
-
 
 body > section:nth-child(2) {
   -webkit-animation: appear 1s ease-in;
