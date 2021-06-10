@@ -98,11 +98,14 @@ html {
   scroll-behavior: smooth;
 }
 
+
 body {
-  background-color: DarkBlue;
-  padding: 1em 2em;
-  font-family: "Barlow Semi Condensed", sans-serif;
+  background-image: url('img_girl.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
+
 
 body > section:nth-child(2) {
   -webkit-animation: appear 1s ease-in;
