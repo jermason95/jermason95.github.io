@@ -100,9 +100,10 @@ html {
 
 
 body {
-  background-color: Midnightblue;
-  padding: 1em 2em;
-  font-family: "Barlow Semi Condensed", sans-serif;
+  background-image: img/Everest.jpg;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 
