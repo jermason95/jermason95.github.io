@@ -100,10 +100,9 @@ html {
 
 
 body {
-  background-image: img src="img/Jerusalem1.jpg";
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: Midnightblue;
+  padding: 1em 2em;
+  font-family: "Barlow Semi Condensed", sans-serif;
 }
 
 
