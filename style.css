@@ -105,8 +105,8 @@ body {
 }
 
 body > section:nth-child(2) {
-  -webkit-animation: appear 1s ease-in;
-          animation: appear 1s ease-in;
+  -webkit-animation: appear .2s ease-in;
+          animation: appear .2s ease-in;
 }
 
 section {
@@ -136,8 +136,8 @@ nav {
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 4em;
-  -webkit-animation: appear 1s ease-in;
-          animation: appear 1s ease-in;
+  -webkit-animation: appear .2s ease-in;
+          animation: appear .2s ease-in;
 }
 
 nav button {
