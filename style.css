@@ -398,7 +398,7 @@ svg {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   display: block;
-  width: 70%;
+  width: 55%;
   max-width: 700px;
   -webkit-animation-name: appear;
           animation-name: appear;
