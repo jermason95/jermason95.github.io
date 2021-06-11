@@ -99,7 +99,7 @@ html {
 }
 
 body {
-  background-color: midnightblue;
+  background-color: black;
   padding: 1em 2em;
   font-family: "Barlow Semi Condensed", sans-serif;
 }
@@ -557,4 +557,5 @@ svg {
   font-size: 1.6rem;
   text-transform: uppercase;
 }
+
 /*# sourceMappingURL=style.css.map */
