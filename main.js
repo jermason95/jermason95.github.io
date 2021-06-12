@@ -154,8 +154,8 @@ for (i=0; i<divDetails.length; i++) {
 }
 
 // DOWNLOAD RESUME BUTTON
-function goToDownload() { <a href="https://www.youtube.com/watch?v=1x1u4PWbNYY">}
-    //window.scrollTo(0,document.body.scrollHeight);
-    // INDEX 14 IS THE DOWNLOAD SVG, MAY HAVE TO CHANGE THIS LATER
-    //svgs[14].style.animation = "2s linear 1s 8 alert";
-//}
+function goToDownload() {
+    window.scrollTo(0,document.body.scrollHeight);
+     INDEX 14 IS THE DOWNLOAD SVG, MAY HAVE TO CHANGE THIS LATER
+    svgs[14].style.animation = "2s linear 1s 8 alert";
+}
